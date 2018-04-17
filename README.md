@@ -1,3 +1,5 @@
+Based on [kewisch/sepa.js](https://github.com/kewisch/sepa.js) v1.0.2 with custom changes required by the [Dextili palkanlaskija](https://github.com/digitalliving/dextili-palkanlaskija-html) app.
+
 Welcome to sepa.js
 ==================
 
